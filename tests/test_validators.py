@@ -37,5 +37,4 @@ class TestDataValidator(unittest.TestCase):
         self.assertFalse(Validator.is_valid_custom("test", r"^\d+$"))
         
 # Run tests
-if __name__ == "__main__":
-    unittest.main()
+unittest.main()
