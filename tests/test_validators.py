@@ -1,7 +1,7 @@
 # Implementation of test_validators.py for testing the DataValidator class
 
 import unittest
-from validators import Validator
+from datavalidationtoolkit.validators import Validator
 
 class TestDataValidator(unittest.TestCase):
     """
