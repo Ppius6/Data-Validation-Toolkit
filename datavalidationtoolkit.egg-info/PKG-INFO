@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: datavalidationtoolkit
+Version: 0.1.0
+Summary: A simple data validation toolkit
+Home-page: https://github.com/Ppius6/Data-Validation-Toolkit
+Author: Mutuma Kimathi
+Author-email: Pius.mutuma.kimathi@gmail.com
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # Data Validation Toolkit
 
 ## Overview
